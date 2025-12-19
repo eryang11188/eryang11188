@@ -2,7 +2,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eryang11188)
 
 <h1 align="left">Hi 👋, I'm 정이량</h1>
-<h3 align="left">코딩 초보 😨</h3>
+<!-- <h3 align="left">코딩 초보 😨</h3>-->
 
 
 <p align="left">
